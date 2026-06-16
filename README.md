@@ -19,19 +19,9 @@ A modern Todo List application built using the MERN stack. Users can add, update
 
 ## 📸 Screenshot
 
-> Save your application screenshot inside:
 
-```text
-screenshots/app.png
-```
 
-Then GitHub will display it automatically:
-
-```md
-![Todo App](./screenshots/app.png)
-```
-
-![Todo App](./screenshots/app.png)
+![Todo App](./screenshots/todo.png)
 
 ---
 
@@ -172,4 +162,3 @@ https://github.com/JanviArora24
 
 ---
 
-⭐ If you like this project, please give it a star!
